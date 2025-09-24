@@ -1,5 +1,0 @@
-CREATE DATABASE users;
-
-CREATE DATABASE properties;
-
-CREATE DATABASE chats;
